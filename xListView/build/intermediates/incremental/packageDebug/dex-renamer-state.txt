@@ -1,0 +1,7 @@
+#Thu Jan 12 10:10:13 CST 2017
+base.0=E\:\\android\\workSpace\\AndroidStudioProjects\\PhoneMedia\\xListView\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_6313b67ea35996b15d62e62d3a15b9ecd41b2608
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\android\\workSpace\\AndroidStudioProjects\\PhoneMedia\\xListView\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_08205a6d5786df57ddfc5567a6d43482473494fb\\classes.dex
+base.1=E\:\\android\\workSpace\\AndroidStudioProjects\\PhoneMedia\\xListView\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_08205a6d5786df57ddfc5567a6d43482473494fb
+file.0=E\:\\android\\workSpace\\AndroidStudioProjects\\PhoneMedia\\xListView\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_6313b67ea35996b15d62e62d3a15b9ecd41b2608\\classes.dex

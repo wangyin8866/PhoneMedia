@@ -1,0 +1,2 @@
+include ':app', ':testdemo', ':vitamio', ':jcvideoplayer-lib'
+include ':xListView'
